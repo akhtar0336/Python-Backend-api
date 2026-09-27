@@ -1,2 +1,15 @@
-# Python-Backend-api
-Simple REST API using Python Flask | CRUD Operations for Student Data | Python Backend Project
+# Python Backend API - Student Management
+
+A simple REST API built using Python Flask.
+
+## Features
+- GET /students -> Get all students
+- POST /students -> Add a new student
+- Built with Flask, JSON
+
+## Tools
+Python, Flask, REST API
+
+## How to Run
+pip install flask
+python app.py
